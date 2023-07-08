@@ -92,7 +92,7 @@ Widget cardContainer({
             ),
             CustomText(
               title: title,
-              fontSize: 21,
+              fontSize: 15,
             ),
             const Spacer(),
             IconButton(
