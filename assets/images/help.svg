@@ -1,0 +1,6 @@
+<svg id="help" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <rect id="Rectangle_1794" data-name="Rectangle 1794" width="35" height="35" fill="none"/>
+  <g id="question" transform="translate(6.5 5.99)">
+    <path id="Path_2602" data-name="Path 2602" d="M14.01,3a11.01,11.01,0,1,0,11.01,11.01A11.023,11.023,0,0,0,14.01,3Zm0,16.939a.847.847,0,1,1,.847-.847A.847.847,0,0,1,14.01,19.939Zm.847-5.188V15.7a.847.847,0,0,1-1.694,0V14.01a.847.847,0,0,1,.847-.847,1.694,1.694,0,1,0-1.694-1.694.847.847,0,0,1-1.694,0,3.388,3.388,0,1,1,4.235,3.281Z" transform="translate(-3 -3)" fill="#353448"/>
+  </g>
+</svg>
